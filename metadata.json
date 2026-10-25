@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sacré-Cœur Scout Hub",
+  "description": "Depuis 1955, le Groupe Sacré-Cœur Gemmayzé fait vivre l’esprit scout au cœur de Gemmayzé. Découverte des branches, vidéos des camps et formulaire officiel d’inscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,9 @@
+name = "sdl-sacre-coeur-gemmayze"
+compatibility_date = "2024-09-23"
+
+# Cloudflare Workers Static Assets (Standard in Wrangler v3 / v4)
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
+
+
